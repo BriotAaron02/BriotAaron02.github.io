@@ -1,1 +1,22 @@
 
+
+CSS
+
+h1
+{
+     text-align: center;
+     color: red;
+     text-decoration: underline;
+}
+h2
+{
+    text:size:18;
+    text-align: left;
+    color: grey;
+}
+h3
+{
+    text:size:18;
+    text-align: left;
+    color: grey;
+}
