@@ -20,3 +20,21 @@ h3
     text-align: left;
     color: grey;
 }
+h3
+{
+    text:size:18;
+    text-align: left;
+    color: grey;
+}
+h4
+{
+    text:size:18;
+    text-align: left;
+    color: grey;
+}
+h5
+{
+    text:size:18;
+    text-align: left;
+    color: grey;
+}
