@@ -40,7 +40,7 @@ h5
 }
 body
 {
-background-image:url('https://interface-experience.org/site/wp-content/uploads/2015/01/IE-008KKEDIT-918x750.jpg');
+background-image:url('comodore 64.png');
 height: 100%;
 background-repeat: no-repeat;
 background-attachment:fixed;
