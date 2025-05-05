@@ -38,3 +38,10 @@ h5
     text-align: left;
     color: grey;
 }
+
+background-image:url('https://img.freepik.com/vecteurs-libre/fond-polygonale-realiste_52683-60158.jpg);
+height: 100%;
+background-repeat: no-repeat;
+background-attachment:fixed;
+background-size: cover;
+font-family:arial;
