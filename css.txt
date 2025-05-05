@@ -40,7 +40,7 @@ h5
 }
 body
 {
-background-image:url('https://img.freepik.com/vecteurs-libre/fond-polygonale-realiste_52683-60158.jpg);
+background-image:url('https://interface-experience.org/site/wp-content/uploads/2015/01/IE-008KKEDIT-918x750.jpg');
 height: 100%;
 background-repeat: no-repeat;
 background-attachment:fixed;
